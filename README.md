@@ -2,7 +2,8 @@
 
 A cross-platform e-commerce mobile app built with **Expo** and **React Native (Expo Router)**. ExploreTrends demonstrates a full shopping-app UI/UX flow — browsing, categories, cart, wishlist, checkout, and profile management — using a clean, component-based architecture.
 
-![ExploreTrends Home Screen](./home_screen_preview.png)
+![ExploreTrends Home Screen](![Uploading Screenshot 2026-07-28 160413.png…]()
+)
 *Home screen: promotional banner, popular categories, and flash sale section.*
 
 ## 📱 About the Project
